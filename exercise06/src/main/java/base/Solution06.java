@@ -19,7 +19,7 @@ package base;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class solution06 {
+public class Solution06 {
     /*
     program start
     print "What is your current age?"
@@ -36,23 +36,30 @@ public class solution06 {
     */
 
     public static void main(String[] args) {
+        //prompt user for current age and store into string 'currentAge'
         System.out.print("What is your current age? ");
         Scanner input = new Scanner(System.in);
         String currentAge = input.nextLine();
 
+        //prompt user for retiring age and store into string 'retireAge'
         System.out.print("At what age would you like to retire? ");
         String retireAge = input.nextLine();
 
+        //convert strings into int to use for calculations
         int age = Integer.parseInt(currentAge);
         int retire = Integer.parseInt(retireAge);
 
+        //calculate remaining years until retirement
         int remaining = retire - age;
 
-        System.out.println("You have " + remaining + " years left until you can retire.");
-
+        //get current year through system time
         int currentYear = LocalDate.now().getYear();
+
+        //calculate year to retire
         int retireYear = currentYear + remaining;
 
+        //display result
+        System.out.println("You have " + remaining + " years left until you can retire.");
         System.out.println("It's " + currentYear + ", so you can retire in " + retireYear);
     }
 }
