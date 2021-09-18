@@ -1,0 +1,10 @@
+
+W
+java:S1854+"<Remove this useless assignment to local variable "username".(ıö£öøÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(¸Øƒåıÿÿÿÿ8™è°Ù¿/
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(ÜÔ¨A
+H
+java:S1481+"-Remove this unused "username" local variable.(ıö£öøÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ŒÜ¥Öûÿÿÿÿ
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(¯áh
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(øäš¼øÿÿÿÿ8ªßÙ¿/
