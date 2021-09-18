@@ -1,0 +1,18 @@
+
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ùë­¯ýÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ð è—úÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¾Ô×ï
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Ý‰®è
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(™†ÌÀ
+M	java:S106="9Replace this use of System.out or System.err by a logger.(Â›úF
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(¹îª©ýÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ÍÒ«Þúÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(§ò³õþÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÛŒ‰ýÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÛŒ‰ýÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÛŒ‰ýÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÛŒ‰ýÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÛŒ‰ýÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÛŒ‰ýÿÿÿÿ
+X
+java:S2184("BCast one of the operands of this addition operation to a "double".(îì¡Å
