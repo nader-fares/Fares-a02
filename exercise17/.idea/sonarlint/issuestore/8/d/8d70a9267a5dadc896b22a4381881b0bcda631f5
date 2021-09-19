@@ -1,0 +1,19 @@
+
+Q	java:S1251"<This block of commented-out lines of code should be removed.(ß„Ö
+h
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(Å®ñÀ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(¨¹°°üÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ó¶¢Ãıÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¨¹°°üÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(Ş±ğŒÿÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(¨¹°°üÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.( û÷œÿÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(¨¹°°üÿÿÿÿ
+N	java:S106”"9Replace this use of System.out or System.err by a logger.(ë÷Ì
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(õ ıïşÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(§¸™à
+j
+java:S1192S"ODefine a constant instead of duplicating this literal "Invalid input." 4 times.(¨¹°°üÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üµœÜùÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‹ï„şÿÿÿÿ
